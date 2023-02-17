@@ -1,0 +1,5 @@
+/build/*
+/plop/*
+/node_modules/*
+/dist/*
+*.scss
